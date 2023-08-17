@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">My SunnyWeather</string>
     <string name="hintsearchPlace">输入地址</string>
+    <string name="forecast">预报</string>
 </resources>
